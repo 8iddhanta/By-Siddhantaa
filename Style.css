@@ -1,0 +1,105 @@
+.Head{
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    background-color: rgb(4, 1, 2);
+    height: 100px;
+    margin: 0%;
+    text-align: center;
+}
+.C-button{
+    display: inline-block;
+    position: relative; 
+    font-size: 25px;
+    height: 60px;
+    width: 300px;
+    color: white;
+    background-color: rgb(16, 44, 87);
+    border-radius: 10px;
+    cursor: pointer;
+    border-color: brown;
+    font-weight: bolder; 
+    margin-top: 25px;
+    margin-left: 500px;
+}
+.B-button{
+    display: inline-block;
+    position: relative; 
+    font-size: 25px;
+    height: 60px;
+    width: 300px;
+    color: white;
+    background-color:rgb(16, 44, 87);
+    border-radius: 10px;
+    cursor: pointer;
+    border-color: brown;
+    font-weight: bolder; 
+    margin-top: 25px;
+    margin-left: 500px;
+}
+
+.S-button{
+    display: inline-block;
+    position: relative; 
+    font-size: 25px;
+    height: 60px;
+    width: 300px;
+    color: white;
+    background-color: rgb(16, 44, 87);
+    border-radius: 10px;
+    cursor: pointer;
+    border-color: brown;
+    font-weight: bolder; 
+    margin-top: 25px;
+    margin-left: 500px;
+}
+
+.L-button{
+    display: inline-block;
+    position: relative; 
+    font-size: 25px;
+    height: 60px;
+    width: 300px;
+    color: white;
+    background-color: rgb(16, 44, 87);
+    border-radius: 10px;
+    cursor: pointer;
+    border-color: brown;
+    font-weight: bolder; 
+    margin-top: 25px;
+    margin-left: 500px;
+}
+
+.BI-button{
+    display: inline-block;
+    position: relative; 
+    font-size: 25px;
+    height: 60px;
+    width: 300px;
+    color: white;
+    background-color: rgb(16, 44, 87);
+    border-radius: 10px;
+    cursor: pointer;
+    border-color: brown;
+    font-weight: bolder; 
+    margin-top: 25px;
+    margin-left: 500px;
+}
+
+.T-button{
+    display: inline-block;
+    position: relative; 
+    font-size: 25px;
+    height: 60px;
+    width: 300px;
+    color: white;
+    background-color:rgb(16, 44, 87);
+    border-radius: 10px;
+    cursor: pointer;
+    border-color: brown;
+    font-weight: bolder; 
+    margin-top: 25px;
+    margin-left: 500px;
+}
+
